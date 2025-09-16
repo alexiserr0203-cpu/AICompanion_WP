@@ -1,15 +1,10 @@
 {
     "version": "1.2.0",
-    "name": "wp-innovator/innovator-ai",
-    "description": "Your Virtual AI assistant to make your WordPress content automation journey smooth and beautiful using Open AI.",
+    "name": "WordPress AI Content Companion",
+    "description": "A plugin that empowers WordPress users to generate beautiful content using OpenAI, with seamless integration via Gutenberg blocks, toolbar controls and instant content creation.",
     "type": "wordpress-plugin",
     "license": "GPL-2.0-or-later",
-    "authors": [
-        {
-            "name": "ManiruzzamanAkash",
-            "email": "manirujjamanakash@gmail.com"
-        }
-    ],
+   
     "config": {
         "allow-plugins": {
             "dealerdirect/phpcodesniffer-composer-installer": true
