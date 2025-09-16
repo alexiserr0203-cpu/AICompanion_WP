@@ -1,4 +1,4 @@
-# Copyright (c) 2023 Maniruzzaman Akash. All Rights Reserved.
+# Copyright (c) 2023 Alexis R. All Rights Reserved.
 msgid ""
 msgstr ""
 "Project-Id-Version: AICompanion_WP 1.2.0\n"
@@ -23,7 +23,7 @@ msgid "Your Virtual AI assistant to make your WordPress content automation journ
 msgstr ""
 
 #. Author of the plugin
-msgid "Maniruzzaman Akash<manirujjamanakash@gmail.com>"
+msgid "Alexis R"
 msgstr ""
 
 #: includes/Admin/Menu.php:39
