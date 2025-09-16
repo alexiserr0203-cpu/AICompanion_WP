@@ -1,7 +1,7 @@
 {
-  "name": "innovator_ai",
+  "name": "aicompanion",
   "version": "1.2.0",
-  "description": "Your Virtual AI assistant to make your WordPress journey smooth and beautiful.",
+  "description": "A plugin that empowers WordPress users to generate beautiful content using OpenAI, with seamless integration via Gutenberg blocks, toolbar controls and instant content creation.",
   "main": "src/index.tsx",
   "scripts": {
     "build": "wp-scripts build",
@@ -19,11 +19,7 @@
     "version": "node assets/js/version-replace",
     "release": "npm run build && npm run makepot && npm run version && npm run zip"
   },
-  "author": {
-    "name": "Maniruzzaman Akash",
-    "email": "manirujjamanakash@gmail.com",
-    "url": "https://akash.devsenv.com"
-  },
+
   "license": "ISC",
   "devDependencies": {
     "@babel/preset-typescript": "^7.18.6",

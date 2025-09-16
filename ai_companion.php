@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name:       Innovator AI
+ * Plugin Name:       AICompanion_WP
  * Description:       Your Virtual AI assistant to make your WordPress content automation journey smooth and beautiful using Open AI.
  * Requires at least: 5.8
  * Requires PHP:      7.4

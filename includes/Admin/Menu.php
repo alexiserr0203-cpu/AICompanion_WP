@@ -33,7 +33,7 @@ class Menu {
         $capability    = 'manage_options';
         $logo_icon     = INNOVATOR_AI_ASSETS . '/images/logo-icon.png';
 
-        add_menu_page( esc_attr__( 'Innovator AI', 'innovator-ai' ), esc_attr__( 'Innovator AI', 'innovator-ai' ), $capability, $slug, [ $this, 'plugin_page' ], $logo_icon, $menu_position );
+        add_menu_page( esc_attr__( 'AICompanion_WP', 'innovator-ai' ), esc_attr__( 'AICompanion_WP', 'innovator-ai' ), $capability, $slug, [ $this, 'plugin_page' ], $logo_icon, $menu_position );
 
         if ( current_user_can( $capability ) ) {
             $submenu[ $slug ][] = [ esc_attr__( 'Dashboard', 'innovator-ai' ), $capability, 'admin.php?page=' . $slug . '#/' ]; // phpcs:ignore WordPress.WP.GlobalVariablesOverride.Prohibited

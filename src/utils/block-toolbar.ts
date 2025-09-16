@@ -12,7 +12,7 @@ import { AiBlockToolbar } from '../components/blocks/AiBlockToolbar';
 
 registerFormatType(
 	'innovator-ai/generator-button', {
-		title: __( 'Innovator AI Content Generator', 'innovator-ai' ),
+		title: __( 'AICompanion_WP Content Generator', 'innovator-ai' ),
 		tagName: 'b',
 		className: null,
 		edit: AiBlockToolbar,

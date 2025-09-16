@@ -20,7 +20,7 @@ function Header() {
 							onClick={ () => {} }
 							className="text-gray-900 font-medium text-lg focus:outline-none focus:shadow-none"
 						>
-							{ /*<span className="text-primary">Innovator AI</span>*/ }
+							{ /*<span className="text-primary">AICompanion_WP</span>*/ }
 							<img src={ innovatorAi.images.logo } width={ 100 } />
 						</Link>
 					</div>

@@ -10,7 +10,7 @@ namespace WpInnovator\InnovatorAi\Common;
 class Keys {
 
     /**
-     * Innovator AI installed option key.
+     * AICompanion_WP installed option key.
      *
      * @var string
      *
@@ -19,7 +19,7 @@ class Keys {
     const INNOVATOR_AI_INSTALLED = 'innovator_ai_installed';
 
     /**
-     * Innovator AI version key.
+     * AICompanion_WP version key.
      *
      * @var string
      *

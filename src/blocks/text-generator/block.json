@@ -12,11 +12,11 @@
 		},
 		"title": {
 			"type": "string",
-			"default": "Innovator AI Text Generator"
+			"default": "AICompanion_WP Text Generator"
 		},
 		"description": {
 			"type": "string",
-			"default": "Innovator AI Text Generator"
+			"default": "AICompanion_WP Text Generator"
 		},
 		"bgColor": {
 			"type": "string",
@@ -35,8 +35,8 @@
 	"example": {
 		"attributes": {
 			"contentFrom": "",
-			"title": "Innovator AI Text Generator",
-			"description": "Innovator AI Text Generator",
+			"title": "AICompanion_WP Text Generator",
+			"description": "AICompanion_WP Text Generator",
 			"bgColor": "#f5f5f5",
 			"padding": {
 				"top": "10px",

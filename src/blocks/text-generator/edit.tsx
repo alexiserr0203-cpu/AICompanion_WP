@@ -109,7 +109,7 @@ export default function Edit( { attributes, setAttributes } ) {
 				<ToolbarGroup>
 					<ToolbarButton
 						icon={ icon }
-						label={ __( 'Innovator AI Content Generator', 'innovator-ai' ) }
+						label={ __( 'AICompanion_WP Content Generator', 'innovator-ai' ) }
 						onClick={ () => {
 							setOpenPreviewModal( true );
 						} }

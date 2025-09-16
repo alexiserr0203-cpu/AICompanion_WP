@@ -1,7 +1,7 @@
 # Copyright (c) 2023 Maniruzzaman Akash. All Rights Reserved.
 msgid ""
 msgstr ""
-"Project-Id-Version: Innovator AI 1.2.0\n"
+"Project-Id-Version: AICompanion_WP 1.2.0\n"
 "Report-Msgid-Bugs-To: https://github.com/wp-innovator/innovator-ai/issues\n"
 "Last-Translator: manirujjamanakash@gmail.com\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #. Plugin Name of the plugin
 #: includes/Admin/Menu.php:36
-msgid "Innovator AI"
+msgid "AICompanion_WP"
 msgstr ""
 
 #. Description of the plugin
@@ -178,7 +178,7 @@ msgstr ""
 
 #: build/blocks/text-generator/index.js:1
 #: build/index.js:1
-msgid "Innovator AI Content Generator"
+msgid "AICompanion_WP Content Generator"
 msgstr ""
 
 #: build/blocks/text-generator/index.js:1
